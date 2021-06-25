@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Обьявления">
+        <menu>
+            <item android:title="Мои обьявления"
+                android:id="@+id/id_my_ads"
+                />
+            <item android:title="Машины"
+                android:id="@+id/id_cars"
+                />
+            <item android:title="Компьютеры"
+                android:id="@+id/id_pc"
+                />
+            <item android:title="Смартфоны"
+                android:id="@+id/id_smartphone"
+                />
+            <item android:title="Бытовая техника"
+                android:id="@+id/id_dm"
+                />
+        </menu>
+    </item>
+    <item android:title="Аккаунт">
+        <menu>
+            <item android:title="Регистрация"
+                android:id="@+id/id_sign_up"
+                />
+            <item android:title="Вход"
+                android:id="@+id/id_sign_in"
+                />
+            <item android:title="Выход"
+                android:id="@+id/id_sign_out"
+                />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Praktika_buzinaev_rd</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="email_hint">Email</string>
+    <string name="pass_hint">Password</string>
+    <string name="ad_sign_up">Регистрация</string>
+    <string name="ad_sign_in">Вход</string>
+    <!--Sign dialog-->
+    <string name="sign_up_action">Зарегистрироваться</string>
+    <string name="sign_in_action">Войти</string>
+    <string name="forget_password">Забыли пароль?</string>
+
+    <string name="not_reg">Войдите или зарегестрируйтесь</string>
+
+    <string name="sign_up_error">Не удалось зарегестрироваться</string>
+    <string name="sign_in_error">Не удалось войти</string>
+    <string name="send_verrification_error">не удалось отправить ссылку для подтверждения</string>
+    <string name="send_verrification_done">на почту отправлена ссылка для подтверждения</string>
+    <string name="email_reset_password_was_sent">Reset email was sent</string>
+    <string name="dialog_reset_email_message">Для восстановления пароля укажите ваш почтовый адрес</string>
+
+    <string name="link_done">Email успешно подключен</string>
+    <string name="enter_to_G">У вас уже есть аккаунт с этим Email</string>
+
+    <string name="select_country">*Выберите страну</string>
+    <string name="select_city">*Выберите город</string>
+
+    <string name="attention_country">Необходимо выбрать страну</string>
+    <string name="back_btn">Назад</string>
+</resources>
